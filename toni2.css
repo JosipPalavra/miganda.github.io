@@ -1,0 +1,43 @@
+.bruno{
+  color:White;
+}
+
+body{
+margin: 0;
+padding: 0;
+background-color: crimson;
+font-family: 'Arimo', sans-serif;
+}
+
+.button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.toni2{
+  color:White;
+}
+
+.mikica{
+  color:white;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+#gumb{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 500px;
+  padding: 40px;
+  font-size: 25px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  Letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+}
