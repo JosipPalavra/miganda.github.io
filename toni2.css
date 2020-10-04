@@ -29,8 +29,8 @@ font-family: 'Arimo', sans-serif;
   background-color: crimson;
   position: relative;
   text-align: center;
-  width: 500px;
-  padding: 40px;
+  width: 300px;
+  padding: 25px;
   font-size: 25px;
   color: white;
   font-family: 'Arimo', sans-serif;
@@ -40,4 +40,13 @@ font-family: 'Arimo', sans-serif;
   Letter-spacing: 15px;
   cursor: pointer;
   border-radius: 100px;
+}
+
+#zasi{
+color: white;
+font-family:'Sansita Swashed',cursive;
+}
+
+#brko{
+  border: 3px solid white;
 }
