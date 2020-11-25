@@ -50,3 +50,92 @@ font-family:'Sansita Swashed',cursive;
 #brko{
   border: 3px solid white;
 }
+
+#buton{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 25px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  Letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 100px;
+  text-align: inherit;
+  text-emphasis-color: white;
+}
+
+#pisi{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 50px;
+  padding: 25px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  Letter-spacing: 5px;
+  cursor: pointer;
+  text-align: inherit;
+  text-emphasis-color: white;
+}
+
+#piska{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 280px;
+  padding: 25px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  Letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 100px;
+  text-align: inherit;
+  text-emphasis-color: white;
+}
+
+
+#paska{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 50px;
+  padding: 25px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  Letter-spacing: 3px;
+  cursor: pointer;
+  text-align: inherit;
+  text-emphasis-color: white;
+}
+
+#submit{
+  background-color: crimson;
+  position: relative;
+  text-align: center;
+  width: 300px;
+  padding: 25px;
+  font-size: 25px;
+  color: white;
+  font-family: 'Arimo', sans-serif;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  Letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
